@@ -8,6 +8,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
 
 ## 📖 About
+> ⚠️ **Note:** This project was built in 2024 and reflects the coding practices and knowledge I had at that time.
 
 Spatula Web App is a full-stack web application that I developed as part of my university coursework. While the project is no longer actively maintained and the live demo is unavailable, it represents an important learning milestone in my development journey.
 
@@ -30,3 +31,6 @@ The application features an unconventional approach to data visualization / user
 **Tools:**
 - Git & GitHub
 - [Postman / VS Code / etc.]
+
+## 📁 Project Structure
+
