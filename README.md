@@ -32,5 +32,31 @@ The application features an unconventional approach to data visualization / user
 - Git & GitHub
 - [Postman / VS Code / etc.]
 
-## 📁 Project Structure
+## 🚀 Getting Started
 
+### Prerequisites
+
+- VS Code (or any other IDE which has JS support)
+- Node.js (v18 or higher)
+- MongoDB (local or Atlas)
+- npm
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Ratrio101/Spatula_Web_App.git
+cd Spatula_Web_App
+
+2. Install dependencies:
+```bash
+npm install
+
+3. Run the application:
+```bash
+cd server
+npm start
+
+# Start frontend (in another terminal)
+cd ../client
+npm start
