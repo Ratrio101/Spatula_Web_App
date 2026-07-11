@@ -47,10 +47,12 @@ The application features an unconventional approach to data visualization / user
 ```bash
 git clone https://github.com/Ratrio101/Spatula_Web_App.git
 cd Spatula_Web_App
+```
 
 2. Install dependencies:
 ```bash
 npm install
+```
 
 3. Run the application:
 ```bash
@@ -60,3 +62,21 @@ npm start
 # Start frontend (in another terminal)
 cd ../client
 npm start
+```
+
+The app will be available at http://localhost:3000
+
+### ⚠️ Project Status
+Archived - This project is no longer maintained. The live demo is currently unavailable. This repository is kept for educational and portfolio purposes.
+
+### 🤝 Contributing
+This is an archived educational project. However, feel free to fork and experiment!
+
+### 📄 License
+This project is open source and available under the MIT License.
+
+### 👨‍ Author
+Vladislav Skibchik / Ratrio101
+GitHub: [@Ratrio101](https://github.com/Ratrio101)
+
+<i>Built with ❤️ during university years</i>
