@@ -11,7 +11,7 @@
 
 Spatula Web App is a full-stack web application that I developed as part of my university coursework. While the project is no longer actively maintained and the live demo is unavailable, it represents an important learning milestone in my development journey.
 
-The application features an unconventional approach to [укажи основную фичу - например: data visualization / user interaction / real-time updates] that was quite innovative for its time.
+The application features an unconventional approach to data visualization / user interaction / real-time updates that was quite innovative for its time.
 
 ## 🛠️ Tech Stack
 
@@ -19,7 +19,7 @@ The application features an unconventional approach to [укажи основн�
 - React.js
 - React Router
 - Axios
-- CSS3 / [укажи если использовал фреймворк]
+- CSS3
 
 **Backend:**
 - Node.js
